@@ -21,7 +21,7 @@ Nama Dataset : Global Plastic Waste 2023: Country-wise Data
 
 Sumber : Kaggle
 
-Jumlah data awal: 164 data
+Jumlah data awal: 165 data
 
 Jumlah kolom: 6
 
